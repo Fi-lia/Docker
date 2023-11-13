@@ -1,0 +1,76 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    width: 350px;
+    height: 200px;
+    padding: 1%;
+}
+
+.trait{
+    margin-top: 10px;
+    background-color: #212429;
+    height: 20px;
+}
+.trait2{
+    margin-top: 10px;
+    background-color: #212429;
+    height: 10px;
+}
+
+img{
+    width: 50px;
+    height: 50px;
+}
+
+nav ul{
+    background-color: #212429;
+    list-style: none;
+    height: 200px;
+}
+
+nav li{
+    padding: 1em;
+    /* display: block; */
+    text-align: center;
+    text-decoration: none;
+    color:white;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+ul{
+    color: white;
+    display: flex;
+}
+
+h1{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+h2{
+    margin-left: 30px;
+}
+
+p{
+    margin-left: 30px;
+}
+
+form{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.multi{
+    margin-top: 100px;
+    margin-left: 25%;
+}
+
+button{
+    border: none;
+    background-color:transparent;
+}
